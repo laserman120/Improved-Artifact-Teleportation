@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "ImprovedArtifactTeleportation",
+  "author": "GLaD0S",
+  "version": "1.0.1",
+  "description": "Allows Switching between Portals around the map",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}
